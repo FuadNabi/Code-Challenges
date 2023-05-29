@@ -4,6 +4,6 @@ Welcome to the Code Challenges repository! This repository is a collection of sm
 
 ## Repository Structure
 * Each challenge is stored in a separate directory within the repository.<br>
-Inside each challenge directory, you will find two important files:
-* `description.md`: This file provides a detailed description of the challenge, including the problem statement, input/output format, and any additional instructions.
-`solution.js`: Here, you can find a solution to the challenge implemented in the specified programming language.
+  Inside each challenge directory, you will find two important files:
+* `description.md`: This file provides a detailed description of the challenge, including the problem statement, input/output format, and any additional instructions.<br>
+* `solution.js`: Here, you can find a solution to the challenge implemented in the specified programming language.
