@@ -6,3 +6,8 @@ Welcome to the Code Challenges repository! This repository is a collection of sm
   Inside each challenge directory, you will find two important files:
 * `description.md`: This file provides a detailed description of the challenge, including the problem statement, input/output format, and any additional instructions.<br>
 * `solution.js`: Here, you can find a solution to the challenge implemented in the specified programming language.
+
+## :handshake: Contributing
+
+Contributions, issues, and feature requests.
+Feel free to check the [issues page](https://github.com/FuadNabi/Code-Challenges/issues).
