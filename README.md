@@ -1,5 +1,5 @@
 # <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Code Challenges <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
-### Welcome to the Code Challenges repository!
+### Welcome to the Code Challenges repository!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 This repository is a collection of small coding challenges along with their descriptions and solutions.<br> It's a great place to practice your coding skills and explore different problem-solving techniques🚀.
 
 ## Repository Structure
