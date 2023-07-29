@@ -8,6 +8,10 @@ This repository is a collection of small coding challenges along with their leve
 * `solution.js/rb` - Here, you can find a solution to the challenge implemented in the specified programming language.
 * `description.md`- This file provides a detailed description of the challenge, including the problem statement, input/output format, and any additional instructions.<br>
 
+## Author
+
+:bust_in_silhouette: **Fuad Nabiyev**
+
 ## :handshake: Contributing
 
 Contributions, [issues](https://github.com/FuadNabi/Code-Challenges/issues), and feature requests.
