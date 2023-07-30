@@ -12,6 +12,8 @@ This repository is a collection of small coding challenges along with their leve
 
 :bust_in_silhouette: **Fuad Nabiyev**
 
+- GitHub: [@FuadNabi](https://github.com/FuadNabi)
+
 ## :handshake: Contributing
 
 Contributions, [issues](https://github.com/FuadNabi/Code-Challenges/issues), and feature requests.
