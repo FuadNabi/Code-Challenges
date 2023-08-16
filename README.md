@@ -13,8 +13,8 @@ This repository is a collection of small coding challenges along with their leve
 :bust_in_silhouette: **Fuad Nabiyev**
 
 - GitHub: [@FuadNabi](https://github.com/FuadNabi)
-- LinkedIn: [FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev/)
-- Twitter: [FuadNabiyev](https://twitter.com/FuadNabiyev_)
+- LinkedIn: [@FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev/)
+- Twitter: [@FuadNabiyev](https://twitter.com/FuadNabiyev_)
 
 ## :handshake: Contributing
 
