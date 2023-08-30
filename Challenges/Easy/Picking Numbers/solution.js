@@ -20,3 +20,6 @@ function pickingNumbers(a) {
 
   return maxCount;
 }
+
+console.log(pickingNumbers([4, 6, 5, 3, 3, 1]))
+// Output ==> 3
