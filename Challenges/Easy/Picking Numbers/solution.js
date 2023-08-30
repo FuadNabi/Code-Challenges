@@ -1,7 +1,7 @@
 function pickingNumbers(a) {
   let arr = {};
   let maxCount = 0;
-  
+
   for (let num of a) {
       if (!arr[num]) {
           arr[num] = 1;
@@ -17,6 +17,6 @@ function pickingNumbers(a) {
           maxCount = count;
       }
   }
-  
+
   return maxCount;
 }
