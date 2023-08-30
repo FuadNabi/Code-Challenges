@@ -1,18 +1,18 @@
 function pickingNumbers(a) {
-  let arr = {};
+  let array = {};
   let maxCount = 0;
 
   for (let num of a) {
-      if (!arr[num]) {
-          arr[num] = 1;
+      if (!arrayay[num]) {
+          array[num] = 1;
       } else {
-          arr[num]++;
+          array[num]++;
       }
   }
 
-  for (let num in arr) {
+  for (let num in array) {
       num = parseInt(num);
-      let count = arr[num] + (arr[num + 1] || 0);
+      let count = array[num] + (array[num + 1] || 0);
       if (count > maxCount) {
           maxCount = count;
       }
