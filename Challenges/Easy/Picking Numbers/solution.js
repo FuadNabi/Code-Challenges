@@ -23,3 +23,6 @@ function pickingNumbers(a) {
 
 console.log(pickingNumbers([4, 6, 5, 3, 3, 1]))
 // Output ==> 3
+
+console.log(pickingNumbers([1, 2, 2, 3, 1, 2]))
+// Output ==> 5
