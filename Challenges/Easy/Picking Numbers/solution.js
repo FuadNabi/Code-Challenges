@@ -3,7 +3,7 @@ function pickingNumbers(a) {
   let maxCount = 0;
 
   for (let num of a) {
-      if (!arrayay[num]) {
+      if (!array[num]) {
           array[num] = 1;
       } else {
           array[num]++;
