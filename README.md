@@ -18,5 +18,5 @@ This repository is a collection of small coding challenges along with their leve
 
 ## :handshake: Contributing
 
-Contributions, [issues](https://github.com/FuadNabi/Code-Challenges/issues), and feature requests.
+Contributions, issues, and feature requests.
 Feel free to check the [issues page](https://github.com/FuadNabi/Code-Challenges/issues).
