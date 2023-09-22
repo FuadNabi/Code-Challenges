@@ -20,3 +20,7 @@ This repository is a collection of small coding challenges along with their leve
 
 Contributions, issues, and feature requests.
 Feel free to check the [issues page](https://github.com/FuadNabi/Code-Challenges/issues).
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you like this project by staring it.🚀💫
