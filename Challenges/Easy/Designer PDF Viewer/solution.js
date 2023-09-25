@@ -1,5 +1,5 @@
 function designerPdfViewer(h, word) {
-  
+
   const letterHeights = {};
   const letters = 'abcdefghijklmnopqrstuvwxyz';
 
