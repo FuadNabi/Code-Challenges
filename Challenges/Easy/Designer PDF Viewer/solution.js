@@ -24,4 +24,5 @@ const heights = [1, 3, 1, 3, 1, 4, 1, 3, 2, 5, 1, 1, 3, 1, 4, 1, 4, 3, 4, 3, 4, 
 const word = "abc";
 const result = designerPdfViewer(heights, word);
 
-console.log(result); // Output: 9
+console.log(result);
+// Output: 9
