@@ -20,9 +20,9 @@ function designerPdfViewer(h, word) {
 
 }
 
-const heights = [1, 3, 1, 3, 1, 4, 1, 3, 2, 5, 1, 1, 3, 1, 4, 1, 4, 3, 4, 3, 4, 1, 4, 1, 3, 1];
+const h = [1, 3, 1, 3, 1, 4, 1, 3, 2, 5, 1, 1, 3, 1, 4, 1, 4, 3, 4, 3, 4, 1, 4, 1, 3, 1];
 const word = "abc";
-const result = designerPdfViewer(heights, word);
+const result = designerPdfViewer(h, word);
 
 console.log(result);
 // Output: 9
