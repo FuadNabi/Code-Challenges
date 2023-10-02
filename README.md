@@ -23,4 +23,4 @@ Feel free to check the [issues page](https://github.com/FuadNabi/Code-Challenges
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project by staring it.🚀💫
+### If you like this project by staring it.🚀💫
