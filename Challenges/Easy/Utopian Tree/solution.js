@@ -11,3 +11,6 @@ function utopianTree(n) {
 
   return result;
 }
+
+console.log(utopianTree(3))
+// Output ==> 6
