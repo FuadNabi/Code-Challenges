@@ -11,3 +11,6 @@ function viralAdvertising(n) {
 
   return totalLikes;
 }
+
+console.log(viralAdvertising(3))
+// Output ==> 9
