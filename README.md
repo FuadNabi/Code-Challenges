@@ -22,5 +22,5 @@ Contributions, issues, and feature requests.
 Feel free to check the [issues page](https://github.com/FuadNabi/Code-Challenges/issues).
 
 
-## If you like this project by staring it.🚀💫
+## If you like this project.🚀💫
 ### ⭐️ Show your support <a name="support"></a>
