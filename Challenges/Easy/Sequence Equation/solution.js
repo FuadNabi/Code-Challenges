@@ -6,3 +6,6 @@ function permutationEquation(p) {
   
   return result;
 }
+
+console.log(permutationEquation([3,4,5,1,2]))
+// Output ==> [1,3,5,4,2]
