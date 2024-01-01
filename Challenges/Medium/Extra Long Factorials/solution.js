@@ -7,3 +7,5 @@ function extraLongFactorials(n) {
 
   console.log(result.toString())
 }
+
+console.log(extraLongFactorials(25))
