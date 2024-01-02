@@ -9,3 +9,4 @@ function extraLongFactorials(n) {
 }
 
 console.log(extraLongFactorials(25))
+// Output ==> 15511210043330985984000000
