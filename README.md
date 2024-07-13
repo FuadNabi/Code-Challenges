@@ -14,7 +14,6 @@ This repository is a collection of small coding challenges along with their leve
 
 - GitHub: [FuadNabi](https://github.com/FuadNabi)
 - LinkedIn: [FuadNabiyev](https://www.linkedin.com/in/fuad-nabiyev/)
-- Twitter: [FuadNabiyev_](https://twitter.com/FuadNabiyev_)
 
 ## :handshake: Contributing
 
